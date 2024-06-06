@@ -1,1 +1,8 @@
-11
+# NAME: Plex
+# UPDATED: 2024-06-06
+payload:
+  - DOMAIN-SUFFIX,plex.direct,DIRECT
+  - DOMAIN-SUFFIX,plex.tv,DIRECT
+  - DOMAIN-SUFFIX,my.plexapp.com,DIRECT
+  - DOMAIN-SUFFIX,plexapp.com,DIRECT
+  - DOMAIN-SUFFIX,plexapp.net,DIRECT
