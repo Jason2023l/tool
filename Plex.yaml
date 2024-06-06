@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,my.plexapp.com,DIRECT
   - DOMAIN-SUFFIX,plexapp.com,DIRECT
   - DOMAIN-SUFFIX,plexapp.net,DIRECT
+  - PROCESS-NAME,Plex Media Server,DIRECT
